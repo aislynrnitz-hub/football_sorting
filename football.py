@@ -1,6 +1,6 @@
 import pandas as pd
 
-#makes a datafram from the csv file
+#makes a dataframe from the csv file and reads it into the program
 football_info = pd.read_csv("HW\\cfb.csv")
 
 #Starts a loop that while the condition is true it will keep running
